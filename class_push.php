@@ -131,7 +131,7 @@ class push
    * @RETURN: type of device(1: ios, 2:android)
    * **/
    
-   /*
+
    public function detect_device()
    {
       $iPod               = stripos($_SERVER['HTTP_USER_AGENT'],"iPod");
@@ -153,7 +153,7 @@ class push
          return 0;   
       }
    }
-    */
+
    #-----------------------------------(/3)-----------------------------------
    
    
